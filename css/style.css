@@ -61,7 +61,7 @@ html, body {
 }
 
 body {
-  background: #16a085;
+  background: #fbc156;
   font-family: 'Montserrat', sans-serif;
   color: #fff;
   line-height: 1.3;
@@ -87,12 +87,13 @@ h1 {
   font-size: 85px;
   font-weight: 700;
   letter-spacing: 0.015em;
+  color:#fb6f56;
 }
 h1::after {
   content: '';
   width: 80px;
   display: block;
-  background: #fff;
+  background: #fb6f56;
   height: 10px;
   margin: 30px auto;
   line-height: 1.1;
